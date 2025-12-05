@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="#-funcionalidades">🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias-utilizadas">🚀 Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-estrutura-do-projeto">📂 Estrutura do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-objetivo">🎯 Objetivo</a>
-  <br>
-  <a href="#-demonstraçao">🖼️ Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-utilizadas">🚀 Tecnologias Utilizadas</a>;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-estrutura-do-projeto">📂 Estrutura do Projeto</a><br>
+  <a href="#-objetivo">🎯 Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar-localmente">📌 Como Executar Localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">📄 Licença</a>
 </p>
@@ -20,6 +18,8 @@
 </p>
 
 Aplicação desenvolvida em **HTML**, **CSS** e **JavaScript** com o objetivo de criar um **Jogo da Velha interativo, responsivo e escalável**, totalmente executado no navegador.
+
+Acesse a aplicação: **👉 [Jogo da Velha Online](https://calebemedeiros.github.io/JogoDaVelha/)**
 
 ---
 
@@ -62,11 +62,10 @@ Este projeto foi criado com foco em **praticar conceitos fundamentais de desenvo
 
 ---
 
-## 🖼️ Demonstração
 
 <br>
 
-Acesse a aplicação: **👉 [Jogo da Velha Online](https://calebemedeiros.github.io/JogoDaVelha/)**
+
 
 <br>
 
