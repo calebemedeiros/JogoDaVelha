@@ -51,6 +51,8 @@ JogoDaVelha/
 └── script.js         # Lógica do jogo
 ```
 
+---
+
 ## 🎯 Objetivo
 
 Este projeto foi criado com foco em **praticar conceitos fundamentais de desenvolvimento web** e demonstrar **capacidade técnica para aplicações interativas em grande escala**, como:
@@ -59,15 +61,6 @@ Este projeto foi criado com foco em **praticar conceitos fundamentais de desenvo
 - Separação clara entre lógica, estilo e estrutura.
 - Uso de boas práticas de programação em JavaScript.
 - Preparação para futuras integrações (ex.: APIs, multiplayer online).
-
----
-
-
-<br>
-
-
-
-<br>
 
 ---
 
